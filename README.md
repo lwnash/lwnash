@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lwnash
 - 👀 I’m interested in football and frontend develop
 - 🌱 I’m currently learning reactJS
-- 💞️ I'm learning english
+- 🤯 I'm learning english
 - 📖 Galactic Empire 7: fundation and Earth
 
 <!---
